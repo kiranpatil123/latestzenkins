@@ -8,7 +8,7 @@ public class DemoController {
 
 	@GetMapping("/hello")
 	public String myMethod() {
-		return "Hi welcome Kiran";
+		return "Hi welcome Kiran to git rebase";
 	}
 
 }
